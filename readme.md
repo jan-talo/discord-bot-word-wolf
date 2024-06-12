@@ -1,3 +1,9 @@
+# このリポジトリについて
+
+[tetsuya-ki/discord-bot-heroku](https://github.com/tetsuya-ki/discord-bot-heroku)からフォークさせていただいたものです。
+word-wolfのbotとして使いたいので、使わない削除してます。
+
+
 # このBotについて
 
 Discord用のBot。discord.pyのBot Commands Frameworkを使用して実装。大まかな機能ごとにCogを分けて開発しているため、不要な機能はCogを削除するだけで削除可能(一部機能に依存関係あり)。同様に、Cogを追加すれば機能追加も可能。[v1.0.0](https://github.com/tetsuya-ki/discord-bot-heroku/releases/tag/v1.0.0)からスラッシュコマンドに対応しました
